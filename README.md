@@ -1,10 +1,7 @@
 # Responsive Ecommerce Website Using HTML CSS JAVASCRIPT
 
-    Responsive Ecommerce Website Using HTML CSS JAVASCRIPT
+    Responsive TLshop Website Using HTML CSS JAVASCRIPT
 
-# Video
-
-    https://youtu.be/gWAV3HmWjmY
 
 # Description
 
